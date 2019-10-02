@@ -14,5 +14,6 @@ navbar:
 base_url: https://MarineThirion.github.io/marine-thirion-blog/
 collections:
     posts:
+    disqus: marine-thirion-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
