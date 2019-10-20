@@ -1,0 +1,68 @@
+---
+title: "Article 1: New study on the immune system of plants: It works differently than expected"
+author:
+  - name: Marine Thirion
+date: 10-20-2019
+categories:
+  - "track"
+preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Article  
+What happens at the molecular level when plants defend against invading pathogens? Previously it was assumed that the processes were roughly the same in all plants. However, this is not true, as a team of biologists from Martin Luther University Halle-Wittenberg (MLU) has demonstrated in a new study published in the scientific journal *The Plant Cell*. The researchers investigated defence processes in the wild **tobacco** plant *N. benthamiana* and found that the processes work quite differently than previously thought. The team also describes in the study how they discovered this complex interaction with the aid of CRISPR/Cas9 genome editing techniques.
+
+When **warding off** pathogens, plants only have their innate immune systems to **fall back on**. "A plant's immune system is rather simple. Special receptor proteins on the surface of the plant cells can recognize pathogens and fight them off. This induces a low-level immune response," says Dr. Johannes Stuttmann from the Institute of Biology at MLU. However, some bacteria have found a way to **overcome** this defence mechanism: They inject so-called effector proteins directly into the plant cell to suppress defence reactions. Over the course of evolution, plants have adapted to this trick and have developed other receptor proteins. These proteins recognise the invaders inside the cell via the effector proteins, and rapidly **trigger** a strong immune reaction. "Since plants do not have their own immune cells or antibodies, the intracellular receptor proteins play a key role in the plant's immune response," explains Stuttmann.
+
+So far, the fundamental principles of plant immune systems have primarily been studied in thale **cress** (*Arabidopsis thaliana*), a relatively simple model organism. Stuttmann's group now wanted to find out whether these findings could also be transferred to the tobacco plant *N. benthamiana*. According to Stuttmann, its genome is considerably more complex and has yet to be completely sequenced. However, the plant has several advantages that make it interesting for further research.
+
+The team investigated a special class of receptors inside the cell called TNL receptors. This class of immune receptors is known to only function properly in conjunction with a specific protein complex. In order to see whether the same genes are responsible for the immune systems of the two plant species, the researchers first knocked-out several candidate genes in tobacco using genome editing techniques and then **swapped** genes between the two species. They then tested whether the plants still reacted to **pests**. "An unexpected complexity was discovered: While a TNL receptor in the tobacco plant also worked in thale cress, this did not apply to the genes of the protein complex. In fact, tobacco plants require a different protein complex than thale cress for a TNL-receptor-induced immune response. The signalling pathways for immune reactions in different plants appear to vary," says Stuttmann. This is surprising because it was previously assumed that these processes were largely identical in plants, since the proteins involved have changed relatively little in the course of plant evolution.
+
+"The **widespread** notion that findings from Arabidopsis thaliana can easily be transferred to other species often proves false," concludes Stuttmann. At the same time, the new study serves to establish *N. benthamiana* as a model organism for these and other questions.
+
+## Source of the article 
+More information: Johannes Gantner et al, An EDS1-SAG101 Complex is Essential for TNL-mediated Immunity in Nicotiana benthamiana, The Plant Cell (2019).  DOI: 10.1105/tpc.19.00099
+
+Journal information: Plant Cell 
+
+Provided by Martin-Luther-Universität Halle-Wittenberg
+[Source of the article](https://phys.org/news/2019-07-immune-differently.html?fbclid=IwAR3FXfxZx_i9pPSNU8tXJaf-SmeRB8a3GWZK_dIhSKOAZbZtjYRdMcl64DU)
+
+word count: 583
+
+# Analysis of the article 
+## Vocabulary  
+
+| Word from the text   | Synonym/definition   | French translation   |
+|:--------------------:|:--------------------:|:--------------------:|
+| tobacco              | a tall erect annual tropical American herb   | tabac   |
+| to ward of           | to turn aside        | repousser            |
+| to fall back on      | to have recourse to  | compter sur          |
+| to overcome          | to get the better of | vaincre              |
+| to trigger           | to initiate actuate  | provoquer            |
+| cress                | plant that we eat its leaves   | cresson    |
+| pest                 | a thing detrimental to plants   | agent nuisible   |
+| widespread           | really diffused      | étendue              |
+
+## Analysis table  
+
+**Researchers :** Martin-Luther-Universität Halle-Wittenberg  
+**Published in :** July 15, 2019 in the scientific journal *The plant cell*  
+**General topic :** Study on the immune system of plants  
+**Procedure :**  
+First : Investigation in the defences processes of the thale cress and it’s quite different than we thought
+Second : A bacteria found how to overcome the low level immune system of plants
+Third : Evolution of plants’ immune system 
+Fourth : Want to apply the process on tobacco plant but it’s definitively more complex beacause of another genome
+Finaly : Swap the genes of these 2 plants : tobacco plants require a different protein complex than thale cress |
+**Conclusion/discovery :** The immune system of plants was not like we thought it was, it’s in fact completely different from one plant to another one. Proteins involved in immunity are a little different from one plant to another one  
+**Remaining questions :** What are other immunity proteins in plants more complex ? 
+
+
+
