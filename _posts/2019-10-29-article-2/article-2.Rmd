@@ -1,0 +1,78 @@
+---
+title: "Article 2: Chemical 'vaccine' helps plants repel pathogens"
+author:
+  - name: Marine Thirion
+date: 10-29-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Article  
+Mary Beth Mudgett Eric Holmes and Elizabeth Sattely engineered tomato plants to resist infections, a possible first step toward helping agricultural plants do the same. Credit: Amy Adams
+
+When plants come under attack from invading bacteria, viruses or fungi, they mount a two-pronged response, producing both offensive chemicals to kill invaders and defensive chemicals to prevent infestations from spreading.
+
+
+Now, scientists at Stanford have used a type of chemical vaccine to switch on this plant defense system to prevent localized infections from becoming contagions, a possible first step toward helping harvests ward off infections.
+
+In a report published Oct. 22 in Science Signaling, a team led by plant biologist Mary Beth Mudgett and chemical engineer Elizabeth Sattely describe how they saved tomato and pepper plants from bacterial speck, the common name for a bacterial infestation that can spread from leaf to leaf, turning leaves yellow and ultimately killing the plants.
+
+They accomplished this by treating uninfected leaves with a newly discovered and naturally occurring chemical called N-hydroxy-pipecolic acid, referred to as NHP. This chemical agent, in turn, triggered a series of chemical responses that made uninfected leaves less hospitable to pathogens seeking to invade.
+
+Recent discovery
+
+"It was only last year that our team and another group discovered how NHP flipped on this defensive system in plants in the lab," said Mudgett, who is a professor of biology. "This time we made NHP and showed that we could use it as an inoculant to switch on this defense mechanism in crop plants, as well."
+
+Sattely, who is an associate professor of chemical engineering, said the findings have significance beyond tomatoes and peppers. The team analyzed the genomes of more than 50 plants, including corn and soybeans. Many of these species have the genetic machinery to produce at least small quantities of NHP, which suggests that they may also have the potential to create self-protective chemical shields. Now, having shown that an extra dose of NHP triggered this self-defense system in tomatoes and peppers, she thinks that it might be possible to splice the NHP genes into commercial plants to boost their natural defenses.
+
+"That's where we're headed but first we need to understand more about the biology," Sattely said. "Nature is all about trade-offs. If we engineer a plant to devote more energy to defense, then how would that affect growth? So far we don't know."
+
+
+ 
+Natural protection
+
+This study is a continuation of a fruitful collaboration between Mudgett and Sattely that began after graduate student Jakub Rajniak in Sattely's lab discovered NHP in laboratory plants. Yun-Chu Chen, a postdoctoral scholar in Mudgett's lab, and Eric Holmes, a graduate student working with Sattely, then found that NHP activates a system known as systemic acquired resistance—or SAR—that creates a chemical defense shield to protect uninfected tissues. Scientists previously knew about that defense system, but hadn't known what activated it.
+
+The new studies in tomatoes and peppers sought to determine whether NHP triggered the acquired resistance response in these plants as well. To find out, Chen and Holmes administered NHP on the underside of tomato and pepper leaves. They then infected leaves with the bacterium that causes bacterial speck. All of the treated plants remained free of disease symptoms, suggesting that the NHP had activated resistance throughout the plant's tissues. Plants that had water applied to their leaves instead of NHP succumbed to the infection.
+
+Chen and Holmes then wanted to find out if they could engineer the production of NHP in tomatoes and whether that internal NHP would also activate resistance. To find out, they put the genes needed to produce NHP into tomato plants. Cells within those plants began to produce NHP, which activated their SAR defenses and prevented the development of bacterial speck.
+
+Eventually, the researchers would like to insert the two NHP-producing genes into the seed stock of food crops and grow test plants in laboratory greenhouses to learn whether they can boost SAR defenses plant-wide and see how this would affect a plant's overall physiology.
+
+"We want to improve plants' natural defenses using genetic engineering," Sattely said.
+
+Mudgett thinks that boosting NHP production could be used to help crops defend themselves against unexpected infectious agents. Unlike human vaccines, which protect against a specific pathogen, like pertussis or the flu, once NHP flips on the SAR defense the resulting chemical shield seems to deflect a broad array of pathogens. This natural plant compound combined with other disease resistance traits in crops could be a promising way to prevent multiple pathogen outbreaks, Mudgett said.  
+"Today we develop crops to resist a specific disease and when the pathogen mutates and overcomes the resistance trait, we start over," she said. "This may be a way to defend against many threats at the same time."
+
+## Source of the article 
+More information: Eric C. Holmes et al. An engineered pathway for N-hydroxy-pipecolic acid synthesis enhances systemic acquired resistance in tomato, Science Signaling (2019). DOI: 10.1126/scisignal.aay3066
+Journal information: Science Signaling 
+by Tom Abate, Stanford University  
+[Source](https://phys.org/news/2019-10-chemical-vaccine-repel-pathogens.html?fbclid=IwAR1FHZNgCiK3vC8R3v-Gvi9Z0fKjODfChQwBqg_tZjHATJ8f6TUzhTJZ1Mk)  
+
+word count : 794  
+
+# Analysis of the article 
+## Vocabulary  
+
+| Word from the text   | Synonym/definition   | French translation   |
+|:--------------------:|:--------------------:|:--------------------:|
+
+## Analysis table
+
+|                                |                                  |
+|:------------------------------:|----------------------------------|
+| Researchers ?     |       |
+| Published in ?  |          |
+| General topic |           |
+| Procedure  |           |
+| Conclusion/discovery |           |
+| Remaining questions    |         |
+
+
+

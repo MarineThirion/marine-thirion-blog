@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-10-29-article-2/",
+    "title": "Article 2: Chemical 'vaccine' helps plants repel pathogens",
+    "description": {},
+    "author": [
+      {
+        "name": "Marine Thirion",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-29",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-10-29T18:58:50+01:00"
+  },
+  {
     "path": "posts/2019-10-15-nom-de-votre-article/",
     "title": "Article 1: New study on the immune system of plants: It works differently than expected",
     "description": {},
