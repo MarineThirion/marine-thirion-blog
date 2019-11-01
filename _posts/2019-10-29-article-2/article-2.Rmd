@@ -62,12 +62,12 @@ word count : 794
 
 |                                |                                  |
 |:------------------------------:|----------------------------------|
-| Researchers ?     |       |
-| Published in ?  |          |
-| General topic |           |
-| Procedure  |           |
-| Conclusion/discovery |           |
-| Remaining questions    |         |
+| Researchers ?     | Tom Abate from Stanford University      |
+| Published in ?  | October 22 in *Science signaling*         |
+| General topic | Creation on a chemical vaccine to help plants to repel pathogens with chemical called NHP to boost their natural defense          |
+| Procedure  | Plants attacked  -> producing of chemicals to kill and chemicals to defense. **Goal** : Researchers want to find a way to switch on this defense. **Hypothesis** : Chemical called NHP triggered in the plants a lot of chemical reactions (SAR) which create a shield to protect uninfected tissues. Is NHP really responsible of it? **Experiences** : *First* ; To be sure that NHP switch on SAR, scientists applied NHP on the underside of some leaves and then infected plants -> leaves with NHP survives and leaves with water died. *Second* ; Could we enginner NHP's production ? Scientists put the genes which produce NHP into tomato plants -> they now synthetize NHP and activate SAR |
+| Conclusion/discovery | Now scientists know that this is NHP which activate defenses of plants to repel pathogens like bacterial speck for example. They can now create chemical vaccine just like for humans         |
+| Remaining questions    | Could other plants create defense shields to repel pathogens other than tomatoes and peppers plants ? Is it going to have an impact on the growth of plants treated ?|
 
 
 
