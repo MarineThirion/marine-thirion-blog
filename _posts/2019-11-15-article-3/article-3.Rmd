@@ -1,0 +1,40 @@
+---
+title: "Article 3 : Plants might be helping each other more than thought "
+author:
+  - name: Marine Thirion
+date: 11-18-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Article
+
+## Source of the article 
+
+[Source](https://phys.org/news/2019-11-thought.html)  
+date : 13/11/19  
+word count : 676
+
+# Analysis of the article 
+
+## Vocabulary
+
+| Word from the text   | Synonym/definition   | French translation   |
+|:--------------------:|:--------------------:|:--------------------:|
+|                      |                      |                      |
+
+## Analysis table
+
+|                                |                                  |
+|:------------------------------:|----------------------------------|
+| Researchers ?       |      |
+| Published in ?  |   |
+| General topic    |     |
+| Procedure     |    |
+| Conclusion/discovery    |    |
+| Remaining questions   |   |
