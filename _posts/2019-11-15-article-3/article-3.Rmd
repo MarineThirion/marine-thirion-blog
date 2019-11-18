@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Article
 
-![](http://localhost:8787/file_show?path=%2Fmedia%2Fsf_shared%2Fprojects%2Fmarine-thirion-blog%2Farticle3.jpg)
+![](../../article3.jpg)
 
 Scientific illustration created by Dr I M Berenjeno/DhramaBeren Studio, dharmaberen.com
 
