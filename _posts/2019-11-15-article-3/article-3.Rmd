@@ -2,7 +2,6 @@
 title: "Article 3 : Plants might be helping each other more than thought "
 author:
   - name: Marine Thirion
-preview: "![](../../article3.png)"
 date: 11-18-2019
 output:
   distill::distill_article:
@@ -21,7 +20,7 @@ Scientific illustration created by Dr I M Berenjeno/DhramaBeren Studio, dharmabe
 
 ## Source of the article 
 
-[URL of the article](https://phys.org/news/2019-11-thought.html)  
+[https://phys.org/news/2019-11-thought.html](https://phys.org/news/2019-11-thought.html)  
 date : 13/11/19  
 word count : 676
 
