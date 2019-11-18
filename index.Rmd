@@ -1,5 +1,6 @@
 ---
-title: "Plants life"
+title: "Plants' life"
+preview: "![](NaturePlants.png)"
 site: distill::distill_website
 listing: posts
 ---

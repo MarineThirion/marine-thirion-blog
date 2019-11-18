@@ -2,6 +2,7 @@
 title: "Article 3 : Plants might be helping each other more than thought "
 author:
   - name: Marine Thirion
+preview: "![](../../article3.png)"
 date: 11-18-2019
 output:
   distill::distill_article:
