@@ -1,11 +1,11 @@
 ---
 title: "My English activity log"
 description: |
-  This is activities that I do to improve my skills in English
+  These are activities that I do to improve my skills in English
 author:
   - name: Marine Thirion
 date: 09-29-2019
-categories: "english"
+preview: English.jpg
 output:
   distill::distill_article:
     self_contained: false

@@ -3,7 +3,7 @@ title: "Article 1: New study on the immune system of plants: It works differentl
 author:
   - name: Marine Thirion
 date: 10-20-2019
-categories: immunity
+preview: NaturePlants.jpg
 output:
   distill::distill_article:
     self_contained: false
