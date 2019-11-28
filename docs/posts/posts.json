@@ -10,11 +10,9 @@
       }
     ],
     "date": "2019-11-18",
-    "categories": [
-      "communication"
-    ],
-    "preview": {},
-    "last_modified": "2019-11-22T10:36:37+01:00"
+    "categories": [],
+    "preview": "posts/2019-11-15-article-3/article3.jpg",
+    "last_modified": "2019-11-28T17:26:42+01:00"
   },
   {
     "path": "posts/2019-10-29-article-2/",
@@ -61,6 +59,6 @@
     "date": "2019-09-29",
     "categories": [],
     "preview": "posts/2019-11-10-my-english-activity-log/English.jpg",
-    "last_modified": "2019-11-28T16:46:42+01:00"
+    "last_modified": "2019-11-28T16:46:43+01:00"
   }
 ]

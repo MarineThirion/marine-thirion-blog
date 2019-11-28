@@ -3,7 +3,7 @@ title: "Article 3 : Plants might be helping each other more than thought "
 author:
   - name: Marine Thirion
 date: 11-18-2019
-categories: communication
+preview: article3.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Article
 
-![](../../article3.png)
+![](article3.jpg)
 
 Scientific illustration created by Dr I M Berenjeno/DhramaBeren Studio, dharmaberen.com
 
