@@ -1,0 +1,49 @@
+---
+title: "Article 4 : New data on the evolution of plants and origin of species"
+author:
+  - name: Marine Thirion
+date: 11-29-2019
+preview: article_4.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Article  
+## Source of the article 
+
+[https://www.sciencedaily.com/releases/2019/10/191023132249.htm?fbclid=IwAR1hne-qJ-Wmel8n08Zh42uUDa2elBovQFFl1-Ba4-g15R3PgDSMfku-4Tk](https://www.sciencedaily.com/releases/2019/10/191023132249.htm?fbclid=IwAR1hne-qJ-Wmel8n08Zh42uUDa2elBovQFFl1-Ba4-g15R3PgDSMfku-4Tk)  
+**Journal Reference:**  
+*One Thousand Plant Transcriptomes Initiative. One Thousand Plant Transcriptomes and Phylogenomics of Green Plants. Nature, 2019* DOI: 10.1038/s41586-019-1693-2  
+date : 23/10/19  
+Credit of the image : Copyright Michele Hogan  
+word count : 693 words
+
+# Analysis of the article 
+## Vocabulary  
+
+| Word from the text   | Synonym/definition   | French translation   |
+|:--------------------:|:--------------------:|:--------------------:|
+| leap   | jump   | saut  |
+| harness   |  power of something  | exploiter   |
+| aim   | purpose   | objectif   |
+| unravel   | explain   | résoudre   |
+| tools  | methods    | outils  |
+| sample   | representative piece  | échantillon   |
+| pattern   | arrangement   | modèle   |
+| moss    | bryophyte   | mousse   |
+| transcriptome | the sum total of all the messenger RNA molecules expressed from the genes of an organism |
+| catalyst   | activator  | catalyseur   |
+| unleash   | release   | déclencher    |
+| carry out    | bring to fruition   | mener à bien   |
+| lay    | happen   | poser  |
+| available   | obtainaible   | disponible  |
+| lack    | scarcity    | manque    |
+| suitable    | appropriate   | approprié    |
+| furthermore   | moreover   | de plus   |
+
+## Analysis table 
