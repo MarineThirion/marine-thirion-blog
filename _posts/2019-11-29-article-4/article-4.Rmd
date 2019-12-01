@@ -47,3 +47,12 @@ word count : 693 words
 | furthermore   | moreover   | de plus   |
 
 ## Analysis table 
+
+|                                |                                  |
+|:------------------------------:|----------------------------------|
+| Researchers        | Martin-Luther-Universität Halle-Wittenberg      |
+| Published in ?  | In *Nature* October 23th 2019   |
+| General topic    | Scientists didn't really understand how happened the big jump in biodiversity, so they realized the most comprehensive evolutionary tree for green plants |
+| Procedure     | The team used transcriptomes (genetic data) of 1147 species that they analyze  |
+| Conclusion/discovery    | They found a big increase in genetic diversity at the transition aquatical to terrestrial plants until it reached a plateau, flowering plants arrived later because of environmental conditions |
+| Remaining questions   | / |
