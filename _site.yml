@@ -1,6 +1,7 @@
 name: "blog-template"
 title: "Marine's Blog"
 output_dir: "docs"
+favicon: "logo.jpg"
 navbar:
   right:
     - text: "Home"
