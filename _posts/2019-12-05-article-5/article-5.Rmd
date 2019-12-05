@@ -1,0 +1,45 @@
+---
+title: "Article 5 : What's the story, morning glory? Taxonomy, evolution and sweet potatoes"
+author:
+  - name: Marine Thirion
+date: 12-05-2019
+preview: article5.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Article 
+## Source of the article 
+
+[https://phys.org/news/2019-11-story-morning-glory-taxonomy-evolution.html](https://phys.org/news/2019-11-story-morning-glory-taxonomy-evolution.html)
+
+More information: *Nature Plants (2019)*. DOI: 10.1038/s41477-019-0535-4  
+Journal information: *Nature Plants *  
+Image: Valley creeper 3 from Bolivia 1 of 850 species of morning glory distributed throughout the tropics. Credit: JRI Wood  
+date: 11/11/19
+word count: 664 words
+
+
+# Analysis of the article 
+## Vocabulary
+
+| Word from the text   | Synonym/definition   | French translation   |
+|:--------------------:|:--------------------:|:--------------------:|
+
+
+## Analysis table 
+
+|                                |                                  |
+|:------------------------------:|----------------------------------|
+| Researchers        |       |
+| Published in ?  |    |
+| General topic    |  |
+| Procedure     |   |
+| Conclusion/discovery    |  |
+| Remaining questions   |  |
+
