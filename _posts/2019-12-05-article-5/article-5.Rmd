@@ -30,6 +30,18 @@ word count: 664 words
 
 | Word from the text   | Synonym/definition   | French translation   |
 |:--------------------:|:--------------------:|:--------------------:|
+| morning glory   | the common name for over 1,000 species of flowering plants in the family Convolvulaceae, whose current taxonomy and systematics are in flux. | Ipomoea tricolor |
+| root     | the part of a plant which attaches it to the ground or to a support, typically underground, conveying water and nourishment to the rest of the plant via numerous branches and fibres | racine  |
+| solely   | only   | seulement  |
+| insight   | profond perception  | connaissance approfondie   |
+| edible    | can be eaten   | comestible    |
+| comsuption   | the action of using up a resource  | consommation  |
+| hinder  | slow progress   | entraver |
+| backlog   | unprocessed items   | retard   |
+| bulk of  | greater part    | la majeure partie de |
+| pertain to   | relate   | concerner   |
+| feasible   | realistic   | vraisemblable   |
+| underpin  | support   | étayer   |
 
 
 ## Analysis table 
