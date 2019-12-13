@@ -2,7 +2,7 @@
 title: "Article 5 : What's the story, morning glory? Taxonomy, evolution and sweet potatoes"
 author:
   - name: Marine Thirion
-date: 12-05-2019
+date: 12-13-2019
 preview: article5.jpg
 output:
   distill::distill_article:
@@ -48,10 +48,10 @@ word count: 664 words
 
 |                                |                                  |
 |:------------------------------:|----------------------------------|
-| Researchers        |       |
-| Published in ?  |    |
-| General topic    |  |
-| Procedure     |   |
-| Conclusion/discovery    |  |
-| Remaining questions   |  |
+| Researchers        | University of Oxford's Department of Plant Sciences      |
+| Published in ?  | *Nature plants* on the 11/11/19  |
+| General topic    | The biggest study of the morning glories which also contributes  to the taxonomy and evolution of this megadiverse group of plants |
+| Procedure     | The researchers led the first study of the morning glories at a global scale, they described 63 new species and indentified of a large number of synonyms. They used dried plants preserved and analyze their morphology and their molecules to compare them |
+| Conclusion/discovery    | As previously thought, the storage root was an already-existing trait that predisposed the plant for cultivation and not just the result of human domestication/ Sweet potato is not the only species of morning glory that produces storage roots |
+| Remaining questions   | Scientists have to do an up-to-date taxonomy to stop the biodiversity crisis. |
 
