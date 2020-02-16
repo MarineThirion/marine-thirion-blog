@@ -1,0 +1,55 @@
+---
+title: "Article 6: Live imaging of flowers reveals hidden secrets of plant reproduction"
+author:
+  - name: Marine Thirion
+date: 02-16-2020
+preview: article6.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Article 
+## Source of the article 
+
+[https://phys.org/news/2020-02-imaging-reveals-hidden-secrets-reproduction.html](https://phys.org/news/2020-02-imaging-reveals-hidden-secrets-reproduction.html)
+
+More information: Sona Valuchova et al, Imaging plant germline differentiation within Arabidopsis flowers by light sheet microscopy, eLife (2020). DOI: 10.7554/eLife.52546
+Journal information: eLife   
+Image: An Arabidopsis floral bud with pollen mother cells highlighted in green. Credit: Valuchova, Mikulkova et al. (CC BY 4.0)
+date: 11/02/20
+word count: 668 words
+
+
+# Analysis of the article 
+## Vocabulary
+
+| Word from the text   | Synonym/definition   | French translation   |
+|:--------------------:|:--------------------:|:--------------------:|
+| anther | the part of a stamen that contains the pollen | anthère |
+| arise | emerge, become apparent  | survenir |
+| provide | make available for use, supply  | fournir |
+| pick up  | catch  | prendre |
+| embed | fix (an object) firmly and deeply in a surrounding mass. | intégrer |
+| intricate  | very complicated or detailed  | complexe |
+| fate  | destiny  | destin |
+| neglected  | suffering a lack of proper care  | négligé  |
+| bud | a compact growth on a plant that develops into a leaf, flower, or shoot  | bourgeon |
+|
+
+
+## Analysis table 
+
+|                                |                                  |
+|:------------------------------:|----------------------------------|
+| Researchers        | Researchers from Central European Institute of Technology at Masaryk University      |
+| Published in ?  | **eLife** 11/02/2020  |
+| General topic    | Creation of a new technique to see what happens in sexual reproduction phases of plants : live imaging thanks to LSFM |
+| Procedure     | All our understandings comes from dissected plants, but like this we can not see the pathway of the reproduction. Researchers first fixed the plants in agar to apply the LSFM tchnique, it lead to a 3D model which have a lot of details and they could see the destiny of germ cells. After that they wanted to see special events in reproduction thanks to these technique , they used plants which have meiosis et mitosis hormones fluorescents, they arrive to see all the meiosis process in male germ |
+| Conclusion/discovery    | Live imaging is really efficient to see a lot of details structure in stade of plants like sexual reproduction |
+| Remaining questions   | Researchers want proving that live imaging could be a great way to study plants hormones levels during differents stage of flower development. How is formed female germ cells during female meiosis ?  |
+
