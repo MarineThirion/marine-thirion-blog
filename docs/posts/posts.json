@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-02-27-article-7/",
+    "title": "Article 7 : Plants can detect insect attacks by 'sniffing' each other's aromas",
+    "description": {},
+    "author": [
+      {
+        "name": "Marine Thirion",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-27",
+    "categories": [],
+    "preview": "posts/2020-02-27-article-7/article7.jpg",
+    "last_modified": "2020-02-27T18:32:19+01:00"
+  },
+  {
     "path": "posts/2020-02-16-article-6/",
     "title": "Article 6: Live imaging of flowers reveals hidden secrets of plant reproduction",
     "description": {},
@@ -12,7 +27,7 @@
     "date": "2020-02-16",
     "categories": [],
     "preview": "posts/2020-02-16-article-6/article6.jpg",
-    "last_modified": "2020-02-16T14:09:18+01:00"
+    "last_modified": "2020-02-16T14:09:19+01:00"
   },
   {
     "path": "posts/2019-12-05-article-5/",

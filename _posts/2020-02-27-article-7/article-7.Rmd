@@ -1,0 +1,55 @@
+---
+title: "Article 7 : Plants can detect insect attacks by 'sniffing' each other's aromas"
+author:
+  - name: Marine Thirion
+date: 02-27-2020
+preview: article7.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Article 
+## Source of the article 
+[https://phys.org/news/2020-02-insect-sniffing-aromas.html](https://phys.org/news/2020-02-insect-sniffing-aromas.html)
+Image : Pxhere, licensed under CC0
+date : 20/02/2020
+word count : 1049
+
+# Analysis of the article 
+## Vocabulary
+
+| Word from the text   | Synonym/definition   | French translation   |
+|:--------------------:|:--------------------:|:--------------------:|
+| fragrant | perfumed  | parfumé |
+| summon | call in | faire venir |
+| decipher | decrypt | déchiffrer |
+| crawl | creep | ramper |
+| deter | dissuade | dissuader |
+| bitter | who begets, marks bitterness | amer |
+| convey | transmit | transmettre |
+| caterpillar | the larva of a butterfly or moth | chenille |
+| snoop on | secretly monitor | espionner |
+| maize | a Central American cereal plant that yields large grains (corn or sweetcorn) set in rows on a cob | maïs L
+| moth | night butterfly | papillon de nuit |
+| waft | puff | bouffée |
+| fend off | repel | repousser | 
+| blossom | flower | fleur |
+| steer | lead | guider |
+
+
+## Analysis table
+
+|                                |                                  |
+|:------------------------------:|----------------------------------|
+| Researchers        | by Anthony King and researchers from Horizon Magazine, Horizon: The EU Research & Innovation Magazine      |
+| Published in ?  | / 11/02/2020  |
+| General topic    | Plants emet fragrant aromas when they're attacked which warn their neighbours and attract ennemies of the animals who attack them or even poison them. These volatiles could be used as natural pesticides |
+| Procedure     | Researchers decided to study chemiacal compounds of volatiles issued by the plants and called this project **PERVOL**. Researchers worked with maize because it is a strong emitter of volatiles. One of the volatile is named indole and it is produced by the plant when it is in contact with a molecule present in the salivas of moth caterpillar, it triggers a defence response of the plant. Plants only synthetise indole in the case of herbivory and it's used to prepare the immune system to react quickly.  After that to have a global vision scientists studied the impact of insect saliva on green leaf volatiles. They experiment with tobacco plant by cutting them and applying water or the saliva of a tobacco hornworm caterpillar, the composition of volatiles change dramatically. |
+| Conclusion/discovery    | Scientists have shown that indole and green leaf volatiles act synergistically to induce defences in an even stronger fashion than an individual volatile. A shift to the sweet-smelling compound attracted big-eyed bugs, which are natural enemies of the hornworm caterpillar, to the tobacco plant |
+| Remaining questions   | If scientists managed to understand these signals properly it could teach us how to better protect crops against insects and it is more eco friendly than synthetic chemicals. How plants sniff out volatiles without nose ?  |
+
